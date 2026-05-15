@@ -1,0 +1,6 @@
+narwhals==2.21.0
+numpy==2.4.4
+packaging==26.0
+plotly==6.7.0
+scipy==1.17.1
+xgboost==3.2.0
